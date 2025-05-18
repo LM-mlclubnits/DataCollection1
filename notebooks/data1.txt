@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		
+    
+
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0JFEC9MCG9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-0JFEC9MCG9');
+    </script>
+    
+
+    
+
+		<title>
+			Contra Costa Community College District
+		</title>
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1" name="viewport"/>
+		<!-- ***** SHORTCUT ICON ***** -->
+		<link href="../_files/images/ico/ccccdfavicon.ico" rel="icon"/>
+		<!-- ********************** -->
+		
+    
+	<link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet"/>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet"/>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="text/javascript"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" type="text/javascript"></script>
+
+		
+	<link href="../_files/css/home-page.css" rel="stylesheet"/>
+	<link href="../_files/css/standard-page.css" rel="stylesheet"/>
+	<link href="../_files/css/standard-custom.css" rel="stylesheet"/>
+	<link href="../_files/css/custom-bootstrap.css" rel="stylesheet"/>
+
+		
+		
+		<script>
+    
+    function myFunction() {
+        var x = document.getElementById("myNavBarMobile");
+        if (x.className === "ccccd-navbar-mobile") {
+            x.className += " responsive";
+        } else {
+            x.className = "ccccd-navbar-mobile";
+        }
+    }
+    
+</script>
+	</head>
+	<body>
+		<div class="container-fluid">
+			<!-- ############################################################# -->
+			<!-- Top Banner -->
+			<!-- ############################################################# -->
+			<div class="row row-color" style="height:10px;"></div>
+			<div class="row row-color">
+				<div class="col-sm-3">
+					<a href="/">
+						<img alt="CCCCD Logo" class="img-responsive" src="../_files/images/header/4cd-logo-v2.png" style="width: 200px;"/>
+					</a>
+				</div>
+				<div class="col-sm-9">
+					<nav class="navbar navbar-default">
+						<ul class="nav navbar-nav">
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Career Opportunities <span class="caret"></span> </a>
+<ul class="dropdown-menu">
+<li><a href="https://www.4cdcareers.net/">Open Positions</a></li>
+</ul>
+</li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Governing Board <span class="caret"></span> </a>
+<ul class="dropdown-menu">
+<li><a href="../gb/index.html">Board Members</a></li>
+<li><a href="https://go.boarddocs.com/ca/ccccd/Board.nsf/Public" rel="noopener" target="_blank">Agendas and Minutes</a></li>
+<li><a href="../gb/policies-procedures/index.html">Governing Board Policies and Departmental Procedures</a></li>
+</ul>
+</li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">About Us <span class="caret"></span> </a>
+<ul class="dropdown-menu">
+<li><a href="index.html">Contact Us</a></li>
+<li><a href="colleges.html">The Colleges</a></li>
+<li><a href="vision.html">Our Values</a></li>
+<li><a href="https://webapps.4cd.edu/apps/directory/search.aspx" rel="noopener" target="_blank">CCCCD Phone Directory</a></li>
+<li><a href="chancellors-office/index.html">Chancellor's Office</a></li>
+<li><a href="../crpa/index.html">Community Relations</a></li>
+<li><a href="../foundation/index.html">Foundation</a></li>
+<li><a href="committees/index.html">District Committees</a></li>
+<li><a href="../ed/heoa/index.html">Consumer Information</a></li>
+</ul>
+</li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">For Students <span class="caret"></span> </a>
+<ul class="dropdown-menu">
+<li><a href="colleges.html">Apply Now</a></li>
+<li><a href="https://vsb.4cd.edu/" rel="noopener" target="_blank">Course Schedule Search</a></li>
+<li><a href="../ed/class-schedules.html">Schedule of Classes</a></li>
+<li><a href="../hr/academic-calendars/index.html">Academic Calendar</a></li>
+<li><a href="../title-ix/index.html" rel="noopener">Sexual Violence and Harassment Prevention (Title IX)</a></li>
+<li><a href="../insite/index.html" rel="noopener" target="_blank">InSite</a></li>
+<li><a href="https://outlook.office.com/mail/inbox" rel="noopener" target="_blank">Check E-Mail</a></li>
+</ul>
+</li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">District Office Departments <span class="caret"></span> </a>
+<ul class="dropdown-menu">
+<li><a href="../business/index.html">Administrative Services</a></li>
+<li><a href="chancellors-office/index.html">Chancellor's Office</a></li>
+<li><a href="../ed/index.html">Educational Services</a></li>
+<li><a href="../business/facilities/index.html">Facilities Planning</a></li>
+<li><a href="../business/finance/index.html">Finance Services</a></li>
+<li><a href="../hr/index.html">Human Resources</a></li>
+<li><a href="../audit/index.html">Internal Audit Services</a></li>
+<li><a href="../hr/payroll/index.html">Payroll Services</a></li>
+<li><a href="../pd/index.html">Police, Safety and Emergency Services</a></li>
+<li><a href="../business/purchasing/index.html">Purchasing</a></li>
+<li><a href="../research/index.html">Research and Planning</a></li>
+<li><a href="../hr/risk/index.html">Risk Management</a></li>
+</ul>
+</li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">District Resources <span class="caret"></span> </a>
+<ul class="dropdown-menu">
+<li><a href="https://secure.ethicspoint.com/domain/media/en/gui/33933/index.html" rel="noopener" target="_blank">4CD Confidential Hotline</a></li>
+<li><a href="https://help.4cd.edu/" rel="noopener" target="_blank">Information Technology Resource Status</a></li>
+<li><a href="../insite/index.html" rel="noopener" target="_blank">InSite</a></li>
+<li><a href="https://outlook.office.com/mail/inbox" rel="noopener" target="_blank">Check E-Mail</a></li>
+</ul>
+</li>
+</ul>
+					</nav>
+				</div>
+			</div>
+			<div class="row row-color" style="height:10px;"></div>
+			<!-- ############################################################# -->
+			<!-- Main Content -->
+			<!-- ############################################################# -->
+			<div class="row">
+				<!-- Body -->
+				<div class="col-sm-8">
+					
+
+					<h1 class="page-header">
+						Contra Costa Community College District
+					</h1>
+					
+<div class="row" style="margin-bottom: 20px;"><!-- CCC -->
+<div class="col-sm-4">
+<div class="campus-photo-container">
+<div><a href="https://www.contracosta.edu/" rel="noopener" style="border-width: 0px;" target="_blank"><img alt="CCC Campus" class="img-responsive" src="../_files/images/home/ccc.png"/></a></div>
+<h3 class="campus"><a href="https://www.contracosta.edu/" rel="noopener" target="_blank">Contra Costa College</a></h3>
+<ul class="campus-list" style="list-style-type: square;">
+<li><a href="https://www.contracosta.edu/admissions/apply-now/" rel="noopener" target="_blank">Apply Now</a></li>
+<li><a href="https://www.contracosta.edu/classes/class-schedule/" rel="noopener" target="_blank">Schedule of Classes</a></li>
+</ul>
+</div>
+</div>
+<!-- DVC -->
+<div class="col-sm-4">
+<div class="campus-photo-container">
+<div><a href="https://www.dvc.edu/" rel="noopener" style="border-width: 0px;" target="_blank"><img alt="DVC Campus" class="img-responsive" src="../_files/images/home/dvc.png"/></a></div>
+<h3 class="campus"><a href="https://www.dvc.edu/" rel="noopener" target="_blank">Diablo Valley College</a> <small><a href="https://www.dvc.edu/san-ramon/" rel="noopener" target="_blank">+ San Ramon Campus</a></small></h3>
+<ul class="campus-list" style="list-style-type: square;">
+<li><a href="http://www.dvc.edu/future/steps/step1.html" rel="noopener" target="_blank">Apply Now</a></li>
+<li><a href="http://www.dvc.edu/communication/schedules/index.html" rel="noopener" target="_blank">Schedule of Classes</a></li>
+</ul>
+</div>
+</div>
+<!-- LMC -->
+<div class="col-sm-4">
+<div class="campus-photo-container">
+<div><a href="https://www.losmedanos.edu/" rel="noopener" style="border-width: 0px;" target="_blank"><img alt="LMC Campus" class="img-responsive" src="../_files/images/home/lmc.png"/></a></div>
+<h3 class="campus"><a href="https://www.losmedanos.edu/" rel="noopener" target="_blank">Los Medanos College</a> <small><a href="https://www.losmedanos.edu/brentwood/" rel="noopener" target="_blank">+ Brentwood Center</a></small></h3>
+<ul class="campus-list" style="list-style-type: square;">
+<li><a href="https://www.losmedanos.edu/new/new.aspx" rel="noopener" target="_blank">Apply Now</a></li>
+<li><a href="https://www.losmedanos.edu/schedule/index.aspx" rel="noopener" target="_blank">Schedule of Classes</a></li>
+</ul>
+</div>
+</div>
+</div>
+<p>Since 1949, <span style="font-style: italic;"><strong>Contra Costa College (CCC)</strong></span> has provided exemplary educational services to hundreds of thousands of residents from the greater West County area. The college has superior faculty and staff members and a learning environment that maximizes the potential of students. Technology is available throughout the institution and connects students to the world to ensure a relevant exchange of ideas. The college is proud of its diverse student body and commitment to individual student success. Excellent programs such as the Center for Science Excellence, The Advocate newspaper, the green Automotive Services program, the Nursing program, and the Culinary Arts program are known throughout the state and the nation. A model of excellence, CCC prides itself on being one of the finest community colleges in the country.</p>
+<p><span style="font-style: italic;"><strong>Diablo Valley College (DVC)</strong></span> has distinguished itself as one of the nation's most successful community colleges by offering incomparable transfer opportunities and exceptional career-technical programs and degrees to a diverse student body, while responding to an evolving need for robust adult basic skills and ESL programs. At both the Pleasant Hill and San Ramon locations, local and international students engage with high-quality instruction and support services designed for student learning and success. Faculty from DVC's various career-technical programs are in continuous dialog with our surrounding community to keep pace with emerging technologies and new skill requirements our students need to be successful in any job market. The college's unparalleled transfer programs prepare our students in large numbers to be successful in four-year colleges and universities all over the state and the country. DVC continuously ranks among the top transfer pathways to UC Berkeley.</p>
+<p><span style="font-style: italic;"><strong>Los Medanos College (LMC)</strong></span> provides excellent transfer and innovative career-technical opportunities in East Contra Costa County. A focus on student learning and success helps students build their abilities and competencies as lifelong learners, and provides critical educational preparation to help them to succeed in their career endeavors. Special opportunities include the only honors program certified as part of the UCLA Transfer Alliance, and learning communities supported by faculty and staff. With programs like Engineering, Nursing, Communication Studies, Child Development, Instrumentation Technology, Mathematics, and Process Technology, students receive the resources they need to excel in today's competitive workforce and at four-year colleges. LMC's main campus is located in Pittsburg, with a center in Brentwood.</p>
+				</div>
+				<!-- Resources -->
+				<div class="col-sm-4">
+					<!-- Google Custom Search -->
+					<script async="" src="https://cse.google.com/cse.js?cx=000559962565835526940:yzjjkmklcqw" type="text/javascript"></script>
+					<div class="gcse-search"></div>
+					<div style="color:#0072C6; font-weight:500; margin-bottom:10px; margin-top:15px;">Resources &gt;&gt;</div>
+					<ul class="ul-resources">
+<li><a href="index.html">Home</a></li>
+<li><a href="philosophy-statement.html">Philosophy Statement</a></li>
+<li><a href="vision.html">Our Values</a></li>
+<li><a href="docs/DEIB-Plan-and-Resource-Guide.pdf">Diversity, Equity, Inclusion and Belonging: Planning Framework and Resource Guide</a></li>
+<li><a href="../gb/policies-procedures/board/resolution-1-s.pdf">Resolution NO. 1-S Reaffirming Support of 4CD Students and Employees in Defense of Diversity and Inclusion</a></li>
+<li><a href="chancellors-office/index.html">Chancellor's Office</a></li>
+<li><a href="docs/District and College Functional Map of Roles and Responsibilities.pdf">District and College Functional Map of Roles and Responsibilities</a></li>
+<li><a href="docs/District Leadership Organization Chart.pdf">District Leadership Organization Chart</a></li>
+<li><a href="docs/District Office Organization Chart.pdf">District Office Organization Chart</a></li>
+<li><a href="docs/District Leadership History.pdf">District Leadership History</a></li>
+<li><a href="docs/Fingertip Facts.pdf">Fingertip Facts</a></li>
+</ul>
+					
+				</div>
+			</div>
+			<!-- ############################################################# -->
+			<!-- Footer -->
+			<!-- ############################################################# -->
+			<footer>
+				<div class="row">
+					<div class="col-sm-12">
+						<div class="row row-color footer">
+							<a href="../gb/technology-use.html" style="color: white;">Technology Use Policies</a>&#160;&#160; <span style="color: white;">|</span>&#160;&#160; <a href="../gb/eeoinfo.html" style="color: white;">EEO Information</a>&#160;&#160; <span style="color: white;">|</span>&#160;&#160; <a href="../gb/web-privacy-statement.html" style="color: white;">Legal Disclaimer</a>&#160;&#160; <span style="color: white;">|</span>&#160;&#160; <a href="https://secure.ethicspoint.com/domain/media/en/gui/33933/index.html" rel="noopener" style="color: white;" target="_blank">4CD Confidential Hotline</a>
+						</div>
+					</div>
+				</div>
+			</footer>
+			<!-- ############################################################# -->
+			<!-- Social -->
+			<!-- ############################################################# -->
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="row row-color social">
+						<table class="social-icons-table">
+<tbody>
+<tr>
+<td><a href="https://www.facebook.com/pages/Contra-Costa-Community-College-District/159547331679?ref=hl"> <img alt="FaceBook" class="img-responsive" src="../_files/images/social/v2/facebook.png"/> </a></td>
+<td><a href="https://www.instagram.com/4cd_live/"> <img alt="Instagram" class="img-responsive" src="../_files/images/social/v2/instagram.png"/> </a></td>
+<td><a href="https://www.linkedin.com/company/contra-costa-community-college-district?trk=tyah&amp;trkInfo=tas%3Acontra+costa+community%2Cidx%3A1-1-1"> <img alt="Linked In" class="img-responsive" src="../_files/images/social/v2/linkedin.png"/> </a></td>
+</tr>
+</tbody>
+</table>
+					</div>
+				</div>
+			</div>
+			<!-- ############################################################# -->
+			<!-- Global Nav Bottom -->
+			<!-- ############################################################# -->
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="row bottom-nav-menu">
+<div class="col-sm-2">
+<h3 class="footer-links-list-header">Career Opportunities</h3>
+<ul class="footer-links-list">
+<li><a href="https://www.4cdcareers.net/">Open Positions</a></li>
+</ul>
+</div>
+<div class="col-sm-2">
+<h3 class="footer-links-list-header">Governing Board</h3>
+<ul class="footer-links-list">
+<li><a href="../gb/index.html">Board Members</a></li>
+<li><a href="https://go.boarddocs.com/ca/ccccd/Board.nsf/Public" rel="noopener" target="_blank">Agendas and Minutes</a></li>
+<li><a href="../gb/policies-procedures/index.html">Governing Board Policies and Departmental Procedures</a></li>
+</ul>
+</div>
+<div class="col-sm-2">
+<h3 class="footer-links-list-header">About Us</h3>
+<ul class="footer-links-list">
+<li><a href="index.html">Contact Us</a></li>
+<li><a href="colleges.html">The Colleges</a></li>
+<li><a href="vision.html">Our Values</a></li>
+<li><a href="https://webapps.4cd.edu/apps/directory/search.aspx" rel="noopener" target="_blank">CCCCD Phone Directory</a></li>
+<li><a href="chancellors-office/index.html">Chancellor's Office</a></li>
+<li><a href="../crpa/index.html">Community Relations</a></li>
+<li><a href="committees/index.html">District Committees</a></li>
+<li><a href="../ed/heoa/index.html">Consumer Information</a></li>
+</ul>
+</div>
+<div class="col-sm-2">
+<h3 class="footer-links-list-header">For Students</h3>
+<ul class="footer-links-list">
+<li><a href="colleges.html">Apply Now</a></li>
+<li><a href="https://webapps.4cd.edu/apps/courseschedulesearch/default.aspx" rel="noopener" target="_blank">Course Schedule Search</a></li>
+<li><a href="../ed/class-schedules.html">Schedule of Classes</a></li>
+<li><a href="../hr/academic-calendars/index.html">Academic Calendar</a></li>
+<li><a href="../title-ix/index.html" rel="noopener">Sexual Violence and Harassment Prevention (Title IX)</a></li>
+<li><a href="../insite/index.html" rel="noopener" target="_blank">InSite</a></li>
+<li><a href="https://outlook.office.com/mail/inbox" rel="noopener" target="_blank">Check E-Mail</a></li>
+</ul>
+</div>
+<div class="col-sm-2">
+<h3 class="footer-links-list-header">District Office Departments</h3>
+<ul class="footer-links-list">
+<li><a href="../business/index.html">Administrative Services</a></li>
+<li><a href="chancellors-office/index.html">Chancellor's Office</a></li>
+<li><a href="../ed/index.html">Educational Services</a></li>
+<li><a href="../business/facilities/index.html">Facilities Planning</a></li>
+<li><a href="../business/finance/index.html">Finance Services</a></li>
+<li><a href="../hr/index.html">Human Resources</a></li>
+<li><a href="../audit/index.html">Internal Audit Services</a></li>
+<li><a href="../hr/payroll/index.html">Payroll Services</a></li>
+<li><a href="../pd/index.html">Police, Safety and Emergency Services</a></li>
+<li><a href="../business/purchasing/index.html">Purchasing</a></li>
+<li><a href="../research/index.html">Research and Planning</a></li>
+<li><a href="../hr/risk/index.html">Risk Management</a></li>
+</ul>
+</div>
+<div class="col-sm-2">
+<h3 class="footer-links-list-header">District Resources</h3>
+<ul class="footer-links-list">
+<li><a href="https://secure.ethicspoint.com/domain/media/en/gui/33933/index.html" rel="noopener" target="_blank">4CD Confidential Hotline</a></li>
+<li><a href="https://help.4cd.edu/" rel="noopener" target="_blank">Information Technology Resource Status</a></li>
+<li><a href="../insite/index.html" rel="noopener" target="_blank">InSite</a></li>
+<li><a href="https://outlook.office.com/mail/inbox" rel="noopener" target="_blank">Check E-Mail</a></li>
+</ul>
+</div>
+</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
+
